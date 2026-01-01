@@ -2,7 +2,7 @@
 
 **Fecha del Reporte:** 31 de diciembre de 2025
 [cite_start]**Estado:** Cerrado [cite: 5]
-**Analista:** [Tu Nombre]
+**Analista:** [Angel Marmolejo]
 
 ## 1. Resumen Ejecutivo
 [cite_start]El 28 de diciembre de 2022, la organización detectó un acceso no autorizado a información de identificación personal (PII) y financiera[cite: 3].
